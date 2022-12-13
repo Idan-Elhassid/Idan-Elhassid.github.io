@@ -66,7 +66,7 @@ div {
     width: 25%;
     left: 10%;
     top: 70%;
-    background-color: #8D9EFF;
+    background-color: #9be7ff;
 }
 /* first text */
 .tile:nth-child(5){
@@ -104,7 +104,7 @@ div {
     top: 70%;
     border-style: solid;
     border-width: 2px;
-    border-color: #8D9EFF;
+    border-color: #9be7ff;
     transform: scale(1);
     font-size: 0.9em;
     font-family: var(--ff-secondary);
@@ -137,7 +137,7 @@ a:visited {
 }
 a:hover {
     font-size: 1.2em;
-    color: #8D9EFF;
+    color: #9be7ff;
     text-decoration: none;
     background-color: transparent;
 }
@@ -149,7 +149,7 @@ a:hover {
     color: #F7E01D;
 }
 .colored_p3 {
-    color: #8D9EFF;
+    color: #9be7ff;
 }
 @media screen and (max-width: 1000px) {
   .tile:nth-child(5) {
