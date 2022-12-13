@@ -135,7 +135,7 @@ p {
 }
 .about-img img {
   border-radius: var(--radius);
-  object-fit: cover;
+  object-fit: scale-down;
   height: 85%;
   width: 100%;
   transition: var(--transition);
